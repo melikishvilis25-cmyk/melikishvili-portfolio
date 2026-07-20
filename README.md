@@ -39,7 +39,8 @@ https://github.com/melikishvilis25-cmyk/VoicePipe
 
 ## 📸 Preview
 
-(Add a screenshot of your website here)
+<img width="1782" height="1023" alt="image" src="https://github.com/user-attachments/assets/10595206-567e-4097-b38c-be0915312a0c" />
+
 
 ## 📚 What I Learned
 
